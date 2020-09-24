@@ -13,6 +13,18 @@
 		<priority>1.0</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:New%2520Excision</loc>
+		<lastmod>2020-09-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Ryen%2520Xiang</loc>
+		<lastmod>2020-09-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:TW%2520Log</loc>
 		<lastmod>2020-09-24</lastmod>
 		<changefreq>monthly</changefreq>
@@ -33,6 +45,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:wiki%2520名字</loc>
+		<lastmod>2020-09-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -73,6 +91,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:基于%2520TiddlyWiki%2520构建%2520wiki</loc>
+		<lastmod>2020-09-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:快速创建新笔记按钮</loc>
 		<lastmod>2020-09-24</lastmod>
 		<changefreq>monthly</changefreq>
@@ -80,6 +104,18 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:林一二</loc>
+		<lastmod>2020-09-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:生日仪式</loc>
+		<lastmod>2020-09-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:系统日志</loc>
 		<lastmod>2020-09-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
