@@ -8,9 +8,15 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Index</loc>
-		<lastmod>2020-09-24</lastmod>
+		<lastmod>2020-09-25</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Markdown%2520功能测试页面</loc>
+		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:New%2520Excision</loc>
@@ -39,6 +45,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:TiddlyWikiIconWhite.png</loc>
 		<lastmod>2020-06-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Wiki%2520访问加速</loc>
+		<lastmod>2020-09-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -79,14 +91,26 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:使用%2520Github%2520发布%2520TW</loc>
+		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:使用%2520Github%2520同步%2520TW</loc>
 		<lastmod>2020-09-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:使用%2520LibraryTracker%2520建立读书记录</loc>
+		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:使用%2520TiddlyWiki%2520的朋友们</loc>
-		<lastmod>2020-09-24</lastmod>
+		<lastmod>2020-09-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -104,7 +128,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:林一二</loc>
-		<lastmod>2020-09-24</lastmod>
+		<lastmod>2020-09-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
