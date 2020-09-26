@@ -1,0 +1,20 @@
+created: 20200926063504407
+creator: Ryen Xiang
+modified: 20200926073532243
+modifier: Ryen Xiang
+tags: [[TW 插件]]
+title: LibraryTracker
+tmap.id: 378e2aef-ba35-4ba7-a32d-66e2c9b45902
+type: text/vnd.tiddlywiki
+
+! LibraryTracker
+
+书籍管理插件
+
+!! 功能
+* $:/plugins/inmysocks/LibraryTracker
+* Add Books
+* Book List
+* Library Tracker
+* Library Tracker Settings
+* Manage Books
