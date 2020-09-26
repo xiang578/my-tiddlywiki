@@ -1,9 +1,9 @@
 created: 20200925162021903
 creator: Ryen Xiang
-modified: 20200926045022091
+modified: 20200926130847701
 modifier: Ryen Xiang
 tags: 想法
-title: 算法花园・Xanadu MVP
+title: MVP 版
 tmap.id: 4ef118f2-f865-4b70-9252-4b0d591167fc
 type: text/vnd.tiddlywiki
 
@@ -14,4 +14,4 @@ type: text/vnd.tiddlywiki
 
 !! MVP 版本功能需求
 
-<$macrocall $name=table-dynamic filter="[tag[task]tag[算法花园・Xanadu MVP]]" fields="tbl-checkbox tbl-expand title description priority status due-date tags" class="w-100" stateTiddler="your-state-tid"/>
+<$macrocall $name=table-dynamic filter="[tag[task]tag[MVP 版]]" fields="tbl-checkbox tbl-expand title description priority status due-date tags" class="w-100" stateTiddler="your-state-tid"/>

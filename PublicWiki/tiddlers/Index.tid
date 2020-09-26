@@ -1,8 +1,8 @@
 created: 20200924161659309
 creator: Ryen Xiang
-modified: 20200926060845964
+modified: 20200926132526014
 modifier: Ryen Xiang
-tags: [[算法花园・Xanadu MVP]]
+tags: [[MVP 版]] 算法花园・Xanadu
 title: Index
 tmap.id: ff425ca2-a178-47e2-8caf-db2df9d61f90
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 ---
 
 
-<<reuse-tiddler " wiki 名字">>
+<<reuse-tiddler "wiki名字">>
 
 
 ---
