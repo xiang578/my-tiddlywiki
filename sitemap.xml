@@ -73,6 +73,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:Notion%2520背后的理念</loc>
+		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:Principle</loc>
 		<lastmod>2020-09-25</lastmod>
 		<changefreq>monthly</changefreq>
@@ -265,6 +271,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:如何设计使用%25205%2520年的笔记软件</loc>
+		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:将%2520TW%2520网页制作成%2520App</loc>
 		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -321,6 +333,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:算法花园・Xanadu%2520V3.0</loc>
 		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:算法花园・Xanadu%2520背后的故事</loc>
+		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
