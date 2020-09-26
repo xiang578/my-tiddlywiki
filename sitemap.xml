@@ -43,7 +43,19 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:List-1667018789</loc>
+		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:List-995888525</loc>
+		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:MVP%2520版</loc>
 		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -151,7 +163,19 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:V1.0%2520版</loc>
+		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:Wiki%2520访问加速</loc>
+		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:book%2520info</loc>
 		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -169,12 +193,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:wiki%2520名字</loc>
-		<lastmod>2020-09-26</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://wiki.onetwo.ren/#:wiki%2520架构</loc>
 		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -182,6 +200,12 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:wiki%2520访问量统计</loc>
+		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:wiki名字</loc>
 		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -217,14 +241,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:使用%2520LibraryTracker%2520建立读书记录</loc>
+		<loc>https://wiki.onetwo.ren/#:使用%2520TW%2520建立阅读记录</loc>
 		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:使用%2520TiddlyWiki%2520的朋友们</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -291,18 +315,6 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:直觉泵和其他思考工具</loc>
 		<lastmod>2020-09-26</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:算法花园・Xanadu%2520MVP</loc>
-		<lastmod>2020-09-26</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:算法花园・Xanadu%2520V1.0</loc>
-		<lastmod>2020-09-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
