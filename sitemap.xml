@@ -271,7 +271,7 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:如何设计使用%25205%2520年的笔记软件</loc>
+		<loc>https://wiki.onetwo.ren/#:如何设计使用%25205%2520年的笔记系统</loc>
 		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -285,6 +285,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:快速创建新笔记按钮</loc>
 		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:把%2520TW%2520当成随手记</loc>
+		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
