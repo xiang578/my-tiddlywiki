@@ -1,6 +1,6 @@
 created: 20200924182110594
 creator: Ryen Xiang
-modified: 20200926131435217
+modified: 20200926171234448
 modifier: Ryen Xiang
 tags: 
 title: wiki名字
@@ -12,5 +12,5 @@ wiki 的名字「Xanadu」 取自 [[Ted Nelson]] 的 <a href="https://en.wikiped
 目前已有 <$count filter="[all[tiddlers]!is[system]!is[shadow]]"/> 条笔记。
 
 * 仅统计你有权限看到的笔记
-* 统计代码 `<$count filter="[all[tiddlers]!is[system]!is[shadow]]"/>`
+* 遇到新的网站可以用 `<$count filter="[all[tiddlers]!is[system]!is[shadow]]"/>` 看一下笔记数量。
 
