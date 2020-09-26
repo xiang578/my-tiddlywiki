@@ -1,0 +1,19 @@
+created: 20200925104402382
+creator: Ryen Xiang
+modified: 20200925104414092
+modifier: Ryen Xiang
+tags: 
+title: TiddlyWiki 插件
+tmap.id: bb60fbda-4ce9-4328-86a8-b0eb1b723e00
+type: text/vnd.tiddlywiki
+
+## 有的没的
+
+[Installing custom plugins on Node.js: TiddlyWiki — a non-linear personal web notebook](https://tiddlywiki.com/static/Installing%2520custom%2520plugins%2520on%2520Node.js.html)：里面直接告诉你 Node.js 版本无法直接拖拽安装插件，
+
+npm 全局目录 `/usr/local/lib/node_modules/tiddlywiki/plugins`
+
+### [TiddlyMap.org | Wiki-Based Concept-Mapping Software](http://tiddlymap.org/)
+GitHub 的 ReadMe 文件中指出下载四个依赖项目的文件，然后合并在一起就好。
+
+[[TiddlyBlink]]

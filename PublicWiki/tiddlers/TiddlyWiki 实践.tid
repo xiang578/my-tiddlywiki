@@ -1,0 +1,21 @@
+created: 20200925104541351
+creator: Ryen Xiang
+modified: 20200925104551339
+modifier: Ryen Xiang
+tags: 
+title: TiddlyWiki 实践
+tmap.id: 3c81f888-516f-4763-b980-61255707970e
+type: text/vnd.tiddlywiki
+
+## [[200427]]
+
+- 搞明白了，markdown 中不支持 TiddlyBlink 的语法。
+- 今天最大的成功，固定住侧边栏（视觉外观-主题调整-选项-侧边栏布局-浮动故事，固定侧边栏），这样一来软件的颜值提升很多。不过折腾的时间有点久，如果正式使用这套方案需要自己把文档和所有设置项都查看一遍。
+-  另外，抄袭 [— Read the Word,Read the World.](https://rizi.me/) 的背景，明天还可以继续偷。
+
+## [[200426]] 
+
+- 配置一个漂亮的站点真不容易，而且这个 [[TiddlyBlink]] 好像又坏了。中文插件配置也没有成功，放弃自己的挣扎，使用已经配置好的软件。
+
+[[TiddlyWiki 站点]]
+[[TiddlyWiki 参考]]

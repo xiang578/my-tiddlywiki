@@ -1,0 +1,13 @@
+created: 20200924182110594
+creator: Ryen Xiang
+modified: 20200925160117379
+modifier: Ryen Xiang
+tags: 
+title: wiki 名字
+tmap.id: f7598807-a55d-4cbb-b426-26edf3b77757
+type: text/vnd.tiddlywiki
+
+wiki 的名字「Xanadu」 取自 [[Ted Nelson]] 的 <a href="https://en.wikipedia.org/wiki/Project_Xanadu">Project Xanadu</a>。大部分人会翻译成「上都」或者「仙都」，李如一在一期 [[IT 公论]]将称为纯文本的「世外桃源」计划。
+
+目前已有 <$count filter="[all[tiddlers]!is[system]!is[shadow]]"/> 条笔记（仅统计你有权限查看的）。
+

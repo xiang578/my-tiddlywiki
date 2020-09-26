@@ -1,0 +1,12 @@
+created: 20200925180015934
+creator: Ryen Xiang
+modified: 20200926024200945
+modifier: Ryen Xiang
+tags: [[TW 运维]]
+title: TW 插件
+tmap.id: 31547ca2-0954-4505-af46-0dee52597d04
+type: text/vnd.tiddlywiki
+
+
+* [[Shiraz]]：瑞士军刀级别插件，需要使用功能时可以去看 demo <a href="https://kookma.github.io/TW-Shiraz/"> extended markups: styles, macros, images, tables</a>
+* [[Todolist]]: 任务管理插件，可以生成一张清单。看起来还是通过 [[Shiraz]] 的表格比较有趣。

@@ -1,0 +1,22 @@
+created: 20200925021721794
+creator: Ryen Xiang
+modified: 20200925035355238
+modifier: Ryen Xiang
+tags: [[TW 运维]]
+title: 使用 Github 发布 TW
+tmap.id: a633be74-ee13-4453-9685-b7f451824340
+type: text/vnd.tiddlywiki
+
+Github 默认发布的项目会成为主域名下的一个网页比如 `xiang578.com/wiki`。由于自己的主站在国内使用腾讯云 CDN，如果直接将 TW 挂上去，国内会无法访问。需在在 DNS 设置一个 CNAME 记录 `wiki` 指向 `xiang578.github.io`，然后在 Github 项目中设置 Custom domain 为 `wiki.xiang578.com`
+
+Github Action 中依赖 <a href="https://github.com/peaceiris/actions-gh-pages">peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.</a> 进行发布。如果使用 Custom domain 可以参考 [[Add CNAME file cname | https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-add-cname-file-cname]]
+
+
+```
+- name: Deploy
+  uses: peaceiris/actions-gh-pages@v3
+  with:
+    github_token: ${{ secrets.GITHUB_TOKEN }}
+    publish_dir: ./public
+    cname: github.com
+```

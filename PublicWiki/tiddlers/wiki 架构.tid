@@ -1,0 +1,11 @@
+created: 20200925155610010
+creator: Ryen Xiang
+modified: 20200926044906707
+modifier: Ryen Xiang
+tags: TiddlyWiki [[TW 运维]] [[算法花园・Xanadu MVP]] task
+title: wiki 架构
+tmap.id: 90ee0014-7dd1-4680-be36-d68b56e6d132
+type: text/vnd.tiddlywiki
+
+本 wiki 由 Public 和 Private 两个仓库组合，通过创建笔记时是否有[[APrivateContent]]区分。Public 仓库的内容会通过 Github Action 自动构建并且发布到公网。
+
