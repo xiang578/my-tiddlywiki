@@ -37,8 +37,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:LibraryTracker</loc>
+		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:List-995888525</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -164,7 +170,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:wiki%2520名字</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -189,12 +195,6 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:为什么要有个人%2520wiki</loc>
 		<lastmod>2020-09-24</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:书籍管理插件</loc>
-		<lastmod>2020-09-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -237,6 +237,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:基于%2520TiddlyWiki%2520构建%2520wiki</loc>
 		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:将%2520TW%2520网页制作成%2520App</loc>
+		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -308,7 +314,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:算法花园・Xanadu</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
