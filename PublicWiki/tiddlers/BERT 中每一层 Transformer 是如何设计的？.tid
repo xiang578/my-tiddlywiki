@@ -1,0 +1,15 @@
+created: 20200927150323828
+creator: Ryen Xiang
+modified: 20200927150559133
+modifier: Ryen Xiang
+tags: BERT
+title: BERT 中每一层 Transformer 是如何设计的？
+tmap.id: a7168f95-ca52-49e6-bd4b-5d40bccbb5eb
+type: text/vnd.tiddlywiki
+
+! BERT 中每一层 Transformer 是如何设计的？
+
+看图比较像每一层有 512 个 Transformer
+
+# 分别有 512 个 Transformer 还是只有 1 个共享 512 次，还是都不是？
+# 为什么要按上面的设计？

@@ -1,12 +1,12 @@
 created: 20200924163706517
 creator: Ryen Xiang
-modified: 20200927131739123
+modified: 20200927150039564
 modifier: Ryen Xiang
-tags: paper
+tags: Paper NLP
 title: BERT
 tmap.id: 088c9b3e-cc54-4e1f-bd9f-3774558e740d
 type: text/vnd.tiddlywiki
 
 意义是什么？
 
-{{BERT 参数量}}
+<<reuse-tiddler "BERT 参数量">>

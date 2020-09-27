@@ -1,6 +1,6 @@
 created: 20200927131736508
 creator: Ryen Xiang
-modified: 20200927131736558
+modified: 20200927150322915
 modifier: Ryen Xiang
 tags: BERT
 title: BERT 参数量
@@ -30,3 +30,5 @@ Layer = 12, H = 768, A = 12
 **  `768*3072 + 3072` 以及 `3072*768 + 768`
 *** 中间参数 `4*H`
 ** Norm `768 + 768`
+
+<<reuse-tiddler "BERT 中每一层 Transformer 是如何设计的？">>
