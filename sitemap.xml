@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://wiki.onetwo.ren/#:2020%2520读书目录</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -14,13 +14,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Add%2520Books</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:BERT</loc>
 		<lastmod>2020-09-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Book%2520List</loc>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -32,13 +38,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Library</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:LibraryTracker</loc>
 		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:List-1145751629</loc>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -50,13 +62,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:List-995888525</loc>
-		<lastmod>2020-09-26</lastmod>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:MVP%2520版</loc>
-		<lastmod>2020-09-26</lastmod>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Manage%2520Books</loc>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -247,8 +265,8 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:使用%2520TW%2520建立阅读记录</loc>
-		<lastmod>2020-09-26</lastmod>
+		<loc>https://wiki.onetwo.ren/#:使用%2520TW%2520记录阅读</loc>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -283,8 +301,26 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:巨人的工具</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:已读</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:快速创建新笔记按钮</loc>
 		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:想读</loc>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -319,8 +355,26 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:正读</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:没有加%2520Tag%2520的笔记</loc>
 		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:深度学习-花书</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:深度学习推荐系统</loc>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -363,6 +417,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:论文阅读列表</loc>
 		<lastmod>2020-09-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:金字塔原理</loc>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
