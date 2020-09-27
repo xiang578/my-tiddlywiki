@@ -1,6 +1,6 @@
 created: 20200924163706517
 creator: Ryen Xiang
-modified: 20200927114159435
+modified: 20200927131739123
 modifier: Ryen Xiang
 tags: paper
 title: BERT
@@ -9,6 +9,4 @@ type: text/vnd.tiddlywiki
 
 意义是什么？
 
-!! 参数量计算
-
-$$BERT_{BASE}$$
+{{BERT 参数量}}
