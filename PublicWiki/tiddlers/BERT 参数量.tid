@@ -1,0 +1,32 @@
+created: 20200927131736508
+creator: Ryen Xiang
+modified: 20200927131736558
+modifier: Ryen Xiang
+tags: BERT
+title: BERT 参数量
+tmap.id: 6eb0b8ac-cf9d-4211-b662-a923c7a27b25
+type: text/vnd.tiddlywiki
+
+!! 参数量计算
+
+<a href="https://lsc417.com/2020/06/19/bert_parameter/">BERT encoder参数量计算 | 417's blog</a>
+
+$$BERT_{BASE}$$
+Layer = 12, H = 768, A = 12
+
+`(30522 + 512 + 2)*768 + 768*2 + (3*768*64*12 + 3*64*12 + 64*768*12 + 768 + 768 + 768 + 768*3072 + 3072 + 3072*768 + 768 + 768 + 768) * 12 = 108891648`
+
+
+* embedding `(30522 + 512 + 2)*3*768`
+** 单词 embedding `30522`
+** 位置 embedding `512`
+** 句子 embedding `2`
+** 三个 embedding 相加后 Norm
+* self attetnion 部分
+** Q K V `3*768*64*12 + 3*64*12`
+** Add `64*768*12 + 768`
+** Norm `768 + 768`
+* FNN
+**  `768*3072 + 3072` 以及 `3072*768 + 768`
+*** 中间参数 `4*H`
+** Norm `768 + 768`

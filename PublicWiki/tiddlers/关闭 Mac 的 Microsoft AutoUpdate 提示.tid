@@ -1,0 +1,16 @@
+created: 20200927060431452
+creator: Ryen Xiang
+modified: 20200927060530274
+modifier: Ryen Xiang
+tags: MacOS
+title: 关闭 Mac 的 Microsoft AutoUpdate 提示
+tmap.id: 65b5400f-0f11-42d7-8d60-f33c734869cf
+type: text/vnd.tiddlywiki
+
+<a href="https://zhuanlan.zhihu.com/p/132658872">关闭Mac的Microsoft AutoUpdate弹框提示 - 知乎</a>
+
+
+```bash
+cd /Library/Application\ Support/Microsoft/MAU2.0
+sudo chmod 000 Microsoft\ AutoUpdate.app
+```
