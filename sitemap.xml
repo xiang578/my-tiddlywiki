@@ -19,6 +19,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:BERT%2520中每一层%2520Transformer%2520是如何设计的？</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:BERT%2520代码</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:BERT%2520参数量</loc>
 		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -37,8 +49,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:Code</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:Index</loc>
-		<lastmod>2020-09-26</lastmod>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -91,6 +109,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:NLP</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:New%2520Excision</loc>
 		<lastmod>2020-09-24</lastmod>
 		<changefreq>monthly</changefreq>
@@ -104,6 +128,12 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:OneTwo%2520TW</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Paper</loc>
 		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -123,6 +153,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Shiraz</loc>
 		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:TW%2520Gist</loc>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -164,7 +200,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:TiddlyWiki</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -231,6 +267,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:task</loc>
 		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:transformer_model</loc>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -308,6 +350,18 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:基于%2520TiddlyWiki%2520构建%2520wiki</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:如何开启%2520OneTwo%2520TW%2520中的文件目录</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:如何让其他人在%2520wiki%2520中找到自己喜欢的内容</loc>
 		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
