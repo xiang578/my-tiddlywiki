@@ -97,6 +97,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:OneTwo%2520TW</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:Principle</loc>
 		<lastmod>2020-09-25</lastmod>
 		<changefreq>monthly</changefreq>
@@ -188,7 +194,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:V1.0%2520版</loc>
-		<lastmod>2020-09-26</lastmod>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:VSCode-TW5-Syntax</loc>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -218,13 +230,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:wiki%2520架构</loc>
-		<lastmod>2020-09-26</lastmod>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:wiki%2520访问量统计</loc>
-		<lastmod>2020-09-26</lastmod>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -236,7 +248,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:为什么要使用%2520Tiddlywiki</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -283,8 +295,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:关闭%2520Mac%2520的%2520Microsoft%2520AutoUpdate%2520提示</loc>
+		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:基于%2520TiddlyWiki%2520构建%2520wiki</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -314,7 +332,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:快速创建新笔记按钮</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -339,12 +357,6 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:日期%2520DateFormat</loc>
 		<lastmod>2020-09-25</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:林一二%2520tw%2520模板</loc>
-		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -387,6 +399,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:直觉泵和其他思考工具</loc>
 		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:笔记自动打上创建时间标签</loc>
+		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
