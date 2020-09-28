@@ -1,15 +1,15 @@
 created: 20200928021344230
 creator: Ryen Xiang
-modified: 20200928021527635
+modified: 20200928030215491
 modifier: Ryen Xiang
 tags: TiddlyWiki
 title: TiddlyWiki 使用问题
 tmap.id: f182ef2f-6760-42de-8897-125c0cca18be
 type: text/vnd.tiddlywiki
 
-
 * 很多 Mac 系统的快捷键都不太支持，如果写笔记需要在鼠标和键盘中多次切换。
 ** 安装 [[VSCode-TW5-Syntax]] 语法高亮后，可以在 [[VSCode]] 中编辑笔记。
 ** 不过这里也产生一个之前遇到过的问题，外部文件修改后，不重新启动 TiddlyWiki Server 无法查看到修改。
 ** 到头来还是和使用 [[Markdown]] 管理笔记差不多。
 * [[OneTwo TW]] 自带的同步脚本有点问题，可以回退到自己之前多台设备「网盘+Git」的方案
+** 自动 git 同步触发时间不明确，手动拉取后，需要重新启动服务器加载修改的内容。
