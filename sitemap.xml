@@ -55,7 +55,7 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;新条目&apos;%2520by%2520Ryen%2520Xiang</loc>
+		<loc>https://wiki.onetwo.ren/#:Have%2520fun%2520with</loc>
 		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -117,6 +117,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Markdown%2520功能测试页面</loc>
 		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Markdown</loc>
+		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -189,6 +195,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Tab%2520用法</loc>
 		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:TiddlyMap!!</loc>
+		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -451,6 +463,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:机器学习</loc>
+		<lastmod>2020-09-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:林一二</loc>
 		<lastmod>2020-09-25</lastmod>
 		<changefreq>monthly</changefreq>
@@ -481,8 +499,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:特征工程</loc>
+		<lastmod>2020-09-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:生日仪式</loc>
 		<lastmod>2020-09-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:目标编码</loc>
+		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
