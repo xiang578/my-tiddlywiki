@@ -26,7 +26,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:BERT%2520代码</loc>
-		<lastmod>2020-09-27</lastmod>
+		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -59,6 +59,12 @@
 		<lastmod>2020-09-27</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Jeremy%2520Ruston</loc>
+		<lastmod>2020-09-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Library</loc>
@@ -122,7 +128,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Notion%2520背后的理念</loc>
-		<lastmod>2020-09-26</lastmod>
+		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -170,7 +176,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:TW%2520插件</loc>
-		<lastmod>2020-09-26</lastmod>
+		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -181,8 +187,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:TiddlyWiki%2520使用问题</loc>
+		<lastmod>2020-09-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:TiddlyWiki%2520实践</loc>
-		<lastmod>2020-09-25</lastmod>
+		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -249,6 +261,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Wiki%2520访问加速</loc>
 		<lastmod>2020-09-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:WikiText</loc>
+		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -332,7 +350,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:使用%2520TiddlyWiki%2520的朋友们</loc>
-		<lastmod>2020-09-26</lastmod>
+		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -392,7 +410,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:快速创建新笔记按钮</loc>
-		<lastmod>2020-09-27</lastmod>
+		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -476,7 +494,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:算法花园・Xanadu%2520背后的故事</loc>
-		<lastmod>2020-09-26</lastmod>
+		<lastmod>2020-09-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
