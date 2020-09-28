@@ -367,6 +367,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:副标题由来</loc>
+		<lastmod>2020-09-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:基于%2520TiddlyWiki%2520构建%2520wiki</loc>
 		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
