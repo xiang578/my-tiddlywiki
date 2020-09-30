@@ -1,9 +1,9 @@
 created: 20200926140337358
 creator: Ryen Xiang
-modified: 20200926171327127
+modified: 20200929143622201
 modifier: Ryen Xiang
 tags: 想法
-title: 如何设计使用 5 年的笔记系统
+title: 如何设计使用 5 年的系统
 tmap.id: 89ca7e64-87b0-4d98-8b46-c02000ee834d
 type: text/vnd.tiddlywiki
 
@@ -13,6 +13,12 @@ type: text/vnd.tiddlywiki
 
 为知笔记，印象笔记，Markdown，Roam Research，TiddlyWiki
 
-
 什么格式是自由的？
 
+可能 5 年的时间自己的工作形式不会发生太大的变化，所以需要通过一定的方法进行传承。用[[产品沉思录]]里面的一句话 「增援未来」
+
+系统需要包括多个部分：
+
+* 公开 wiki
+* 文档管理
+* 私人笔记
