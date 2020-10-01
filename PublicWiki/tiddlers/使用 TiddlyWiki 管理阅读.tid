@@ -1,15 +1,22 @@
 created: 20200925161435372
 creator: Ryen Xiang
-modified: 20200926130531056
+modified: 20201001083019906
 modifier: Ryen Xiang
 tags: TiddlyWiki 草稿 task [[MVP 版]]
 title: 使用 TiddlyWiki 管理阅读
 tmap.id: fa7d463d-8c8b-40bf-8497-f7699d07c0dc
 type: text/vnd.tiddlywiki
 
-
+纪念终将离开豆瓣图书。
 
 {{LibraryTracker}}
 
+---
 
-参考 <a href="https://rizi.me/#">— Read the Word,Read the World.</a>
+{{书籍信息和内容调用统一代码实现}}
+
+---
+
+最终成果：[[Library]]
+
+

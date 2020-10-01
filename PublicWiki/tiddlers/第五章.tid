@@ -1,0 +1,32 @@
+book_title: 深度学习推荐系统
+created: 20201001083911461
+creator: Ryen Xiang
+keywords: 机器学习
+modified: 20201001090119444
+modifier: Ryen Xiang
+tags: 日志
+title: 第五章
+tmap.id: 72965e39-1918-4651-a705-b22943b17893
+type: text/vnd.tiddlywiki
+
+<$transclude mode="block" tiddler=booklogsinfo/>
+
+# 特征选取和处理
+## 特征工程的原则：特征的本质是对某个行为过程相关信息的抽象表达。
+## 尽可能抽取出能够保留推荐环境及用户行为过程中的所有有用信息，尽量摒弃冗余信息。
+## 用户行为数据、用户关系数据、属性标签类数据、内容数据、上下文信息、统计类特征、组合类特征
+### 历史 CTR
+## 常用特征处理方法
+### 连续型特征
+#### 归一化
+#### 离散化
+#### 加非线性函数：更好捕获特征与优化目标之间的非线性关系
+### 类别特征
+#### one#hot 
+#### multi#hot
+## 举例
+### [[Wide&Deep]] 中特征放到哪一部分
+### [[DIEN]] 用户行为序列的特征抽取与模型结构进行深度耦合
+
+<<slider label:"关联书籍和主题" src:"<$transclude tiddler=bookkeywords/>"
+srcClass:"alert alert-secondary">>
