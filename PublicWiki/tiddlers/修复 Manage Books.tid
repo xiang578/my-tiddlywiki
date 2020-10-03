@@ -1,0 +1,10 @@
+created: 20201001091655265
+creator: Ryen Xiang
+modified: 20201001091812925
+modifier: Ryen Xiang
+tags: task [[MVP 版]]
+title: 修复 Manage Books
+tmap.id: 0886d7c3-9872-4f35-9b9d-ebf50f452974
+type: text/vnd.tiddlywiki
+
+[[Manage Books]] 目前只有 remove book 一项功能，其他功能的代码错在哪里？

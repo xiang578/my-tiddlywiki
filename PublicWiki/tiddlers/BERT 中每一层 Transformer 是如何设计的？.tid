@@ -1,6 +1,6 @@
 created: 20200927150323828
 creator: Ryen Xiang
-modified: 20200927150559133
+modified: 20201002133649462
 modifier: Ryen Xiang
 tags: BERT
 title: BERT 中每一层 Transformer 是如何设计的？
@@ -13,3 +13,7 @@ type: text/vnd.tiddlywiki
 
 # 分别有 512 个 Transformer 还是只有 1 个共享 512 次，还是都不是？
 # 为什么要按上面的设计？
+
+简单看这个文章[[The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time.|http://jalammar.github.io/illustrated-transformer/]]，之前的理解出现一些问题。BERT 网络中每一层只有一个 Transformer，但是会调用 512 次。输入的 size 和输出的 size 大小相同。
+
+理解：每一个单词的 embedding 会和其他单词的 emebdding 计算一个分数，然后用分数乘以对应的 embedding 求和得到一个新的 embedding，每一个单词都这么操作。
