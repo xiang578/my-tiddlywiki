@@ -20,7 +20,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:BERT%2520中每一层%2520Transformer%2520是如何设计的？</loc>
-		<lastmod>2020-09-27</lastmod>
+		<lastmod>2020-10-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -32,7 +32,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:BERT%2520参数量</loc>
-		<lastmod>2020-09-27</lastmod>
+		<lastmod>2020-10-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -115,6 +115,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:List-1749862943</loc>
+		<lastmod>2020-10-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:List-995888525</loc>
 		<lastmod>2020-10-01</lastmod>
 		<changefreq>monthly</changefreq>
@@ -128,7 +134,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Manage%2520Books</loc>
-		<lastmod>2020-09-27</lastmod>
+		<lastmod>2020-10-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -219,6 +225,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Ted%2520Nelson</loc>
 		<lastmod>2020-09-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:The%2520Almanack%2520of%2520Naval%2520Ravikant</loc>
+		<lastmod>2020-10-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -349,6 +361,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:pimgeek</loc>
+		<lastmod>2020-10-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:task</loc>
 		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -445,6 +463,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:修复%2520Manage%2520Books</loc>
+		<lastmod>2020-10-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:关闭%2520Mac%2520的%2520Microsoft%2520AutoUpdate%2520提示</loc>
 		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -523,6 +547,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:把自己作为方法</loc>
+		<lastmod>2020-10-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:文字折叠宏</loc>
 		<lastmod>2020-09-25</lastmod>
 		<changefreq>monthly</changefreq>
@@ -595,6 +625,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:穷查理宝典</loc>
+		<lastmod>2020-10-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:笔记自动打上创建时间标签</loc>
 		<lastmod>2020-09-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -627,6 +663,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:系统日志</loc>
 		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:终极算法</loc>
+		<lastmod>2020-10-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
