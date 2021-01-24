@@ -92,7 +92,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Index</loc>
-		<lastmod>2020-10-01</lastmod>
+		<lastmod>2021-01-24</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -410,7 +410,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:wiki%2520内容</loc>
-		<lastmod>2020-10-01</lastmod>
+		<lastmod>2021-01-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:wiki%2520名字</loc>
+		<lastmod>2021-01-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -423,12 +429,6 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:wiki%2520访问量统计</loc>
 		<lastmod>2020-09-27</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:wiki名字</loc>
-		<lastmod>2020-09-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
