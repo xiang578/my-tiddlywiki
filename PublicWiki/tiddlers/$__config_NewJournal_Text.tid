@@ -1,6 +1,6 @@
 created: 20201001083800373
 creator: Ryen Xiang
-modified: 20201001083816313
+modified: 20210614130636930
 modifier: Ryen Xiang
 title: $:/config/NewJournal/Text
 type: text/vnd.tiddlywiki
@@ -8,5 +8,4 @@ type: text/vnd.tiddlywiki
 <$transclude mode="block" tiddler=booklogsinfo/>
 
 
-<<slider label:"关联书籍和主题" src:"<$transclude tiddler=bookkeywords/>"
-srcClass:"alert alert-secondary">>
+<<slider label:"关联书籍和主题" src:"<$transclude tiddler=bookkeywords/>" srcClass:"alert alert-secondary">>

@@ -1,6 +1,6 @@
 created: 20200925064948188
 creator: Ryen Xiang
-modified: 20200927145133507
+modified: 20210614124935154
 modifier: Ryen Xiang
 tags: TiddlyWiki
 title: OneTwo TW
@@ -11,3 +11,4 @@ type: text/vnd.tiddlywiki
 
 * `npm run start:wikiServer` 启动服务
 * `npm run install:wikiServer` 开机自动启动 wiki
+* 或者在 VS Code 中右键 `startAndWatchNodeJSWiki.js` 选择 `Run Code` 启动

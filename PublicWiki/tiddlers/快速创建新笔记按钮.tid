@@ -1,6 +1,6 @@
 created: 20200924161717438
 creator: Ryen Xiang
-modified: 20201001083756541
+modified: 20210614131515887
 modifier: Ryen Xiang
 tags: TiddlyWiki
 title: 快速创建新笔记按钮
@@ -21,7 +21,9 @@ type: text/vnd.tiddlywiki
 	</$button>
 
 	<$button>
-		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY年0MM月0DD日DDDPM0hh12:0mm:0ss">> tags=""  text="" />
+		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY年0MM月0DD日DDDPM0hh12:0mm:0ss">> tags="Journal"  text='<$transclude mode="block" tiddler=booklogsinfo/>
+
+<<slider label:"关联书籍和主题" src:"<$transclude tiddler=bookkeywords/>" srcClass:"alert alert-secondary">> ' book_title=""/>
 	添加读书笔记
 	</$button>
 	
