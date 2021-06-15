@@ -1,0 +1,15 @@
+created: 20210615161154925
+creator: Ryen Xiang
+modified: 20210615161502243
+modifier: Ryen Xiang
+tags: TiddlyWiki
+title: TiddlyWiki Log
+tmap.id: b6313e19-bb8c-4c0f-ba46-9585ecb8b3e9
+type: text/vnd.tiddlywiki
+
+
+
+filter 过滤时支持标签或运算 <a href="https://groups.google.com/g/tiddlywiki/c/E1Tta9aXsRs">[TW5] filter list by multiple (2) tags and sort by field "order"</a>
+
+`tag[slide]] [tag[aside]] +[sort[order]]`
+
