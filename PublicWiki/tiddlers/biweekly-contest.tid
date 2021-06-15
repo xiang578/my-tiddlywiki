@@ -1,0 +1,24 @@
+caption: 双周赛题解
+created: 20210615155453257
+creator: Ryen Xiang
+modified: 20210615155531824
+modifier: Ryen Xiang
+tags: LeetCode
+title: biweekly-contest
+tmap.id: a3484721-ec0a-4e8e-98a7-d015bccfca61
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[biweekly-contest]] +[!sort[created]]"> 
+
+
+<$link><$view tiddler=<<currentTiddler>> field=title/> </$link>  
+@@color:gray; <$view field="description"/> //<$view field="created" format="date" template="YYYY年0MM月0DD日"/>//@@
+<$list filter="[<currentTiddler>days[-10]]"> @@color:red;^^新^^@@</$list>
+<$list filter="[<currentTiddler>days[-20]!days[-11]]"> @@color:orange;^^最近^^@@</$list>
+<$list filter="[<currentTiddler>days[-30]!days[-21]]"> @@color:gray;^^近期^^@@</$list>
+
+<$details tiddler="DetailsWidget" open="no">
+
+<$transclude/>
+
+</$details>

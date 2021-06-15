@@ -1,12 +1,13 @@
 book_title: How to Take Smart Notes
 created: 20200925105614502
 creator: Ryen Xiang
-modified: 20210615145705886
+modified: 20210615155649437
 modifier: Ryen Xiang
 tags: Index
 title: Library
 tmap.id: 2e2be3a9-1449-4a8b-8bea-e17f288743bc
 type: text/vnd.tiddlywiki
 
+Library 实现细节：[[使用 TiddlyWiki 管理阅读]]
 <<tabs tabsList:  "[[Journal]] [[2021 读书目录]] [[2020 读书目录]] [[Book List]] [[想读]] [[正读]] [[已读]] [[Add Books]] [[Manage Books]] [[Library Tracker Settings]]
  "default:Book List" "class:"tc-vertical">>
