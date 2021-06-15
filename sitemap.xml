@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://wiki.onetwo.ren/#:2020%2520读书目录</loc>
-		<lastmod>2020-09-27</lastmod>
+		<lastmod>2021-06-15</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:2021%2520读书目录</loc>
+		<lastmod>2021-06-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -14,7 +20,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Add%2520Books</loc>
-		<lastmod>2020-10-03</lastmod>
+		<lastmod>2021-06-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -116,7 +122,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Library</loc>
-		<lastmod>2021-06-14</lastmod>
+		<lastmod>2021-06-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -146,7 +152,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:List-995888525</loc>
-		<lastmod>2021-06-14</lastmod>
+		<lastmod>2021-06-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -602,7 +608,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:把自己作为方法</loc>
-		<lastmod>2021-06-14</lastmod>
+		<lastmod>2021-06-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -735,6 +741,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:终极算法</loc>
 		<lastmod>2020-10-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:被讨厌的勇气</loc>
+		<lastmod>2021-06-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
