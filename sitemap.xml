@@ -116,7 +116,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Index</loc>
-		<lastmod>2021-06-15</lastmod>
+		<lastmod>2021-06-16</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -572,13 +572,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:全球猎身</loc>
-		<lastmod>2021-06-14</lastmod>
+		<lastmod>2021-06-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:关闭%2520Mac%2520的%2520Microsoft%2520AutoUpdate%2520提示</loc>
 		<lastmod>2020-09-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:分析阅读</loc>
+		<lastmod>2021-06-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -615,6 +621,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:如何设计使用%25205%2520年的系统</loc>
 		<lastmod>2020-09-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:如何阅读一本书</loc>
+		<lastmod>2021-06-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -716,13 +728,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:深度学习-花书</loc>
-		<lastmod>2020-09-27</lastmod>
+		<lastmod>2021-06-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:深度学习推荐系统</loc>
-		<lastmod>2020-10-03</lastmod>
+		<lastmod>2021-06-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -740,13 +752,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:百面机器学习</loc>
-		<lastmod>2020-10-04</lastmod>
+		<lastmod>2021-06-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:百面深度学习</loc>
-		<lastmod>2021-06-15</lastmod>
+		<lastmod>2021-06-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -764,7 +776,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:穷查理宝典</loc>
-		<lastmod>2020-10-01</lastmod>
+		<lastmod>2021-06-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -842,7 +854,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:金字塔原理</loc>
-		<lastmod>2020-10-03</lastmod>
+		<lastmod>2021-06-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
