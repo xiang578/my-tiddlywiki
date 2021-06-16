@@ -1,18 +1,11 @@
 author: Ian Goodfellow
 created: 20200927022337482
 creator: Ryen Xiang
+item_type: 实体书
 location: 美国
-<<<<<<< HEAD
-modified: 20200927140259711
-modifier: Ryen Xiang
-tags: Book
-title: 深度学习-花书
-tmap.id: dca37e03-8aac-4e52-9255-855047f65cd6
-=======
-modified: 20200927031915998
+modified: 20210616142531217
 modifier: Ryen Xiang
 tags: Book
 title: 深度学习-花书
 tmap.id: 455fa737-6c7d-4094-9ac8-68c30a3033fc
->>>>>>> a2c4636fa5bff15633b19d8f64985edc8619ce75
 type: text/vnd.tiddlywiki
