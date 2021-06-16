@@ -1,8 +1,7 @@
-book_title: 穷查理宝典
 caption: 管理
 created: 20200927022200220
 creator: Ryen Xiang
-modified: 20201001091614140
+modified: 20210616011953270
 modifier: Ryen Xiang
 title: Manage Books
 tmap.id: fdd21f88-11d0-4860-b980-7cf5d5ffb2a4
@@ -35,6 +34,14 @@ type: text/vnd.tiddlywiki
 \define thisLocationSelect()
 <$select tiddler={{!!book_title}} field='location' default='None'>
 <$list filter='[[$:/data/BookLocations]indexes[]sort[title]regexp:[(?i)$(thisLocationSearch)$]]'>
+<option value=<<currentTiddler>>><$view field='title'/></option>
+</$list>
+</$select>
+\end
+
+\define thisTypeSelect()
+<$select tiddler={{!!book_title}} field='type' default='None'>
+<$list filter='[[$:/data/BookType]indexes[]sort[title]regexp:[(?i)$(thisTypeSearch)$]]'>
 <option value=<<currentTiddler>>><$view field='title'/></option>
 </$list>
 </$select>
@@ -106,6 +113,7 @@ Genre: <$reveal state='$:/state/Library Tracker/add genre' type=nomatch text='ne
 </$reveal><br>
 </$reveal>
 <!--End Genre-->
+
 <!--Location-->
 <$reveal type=match text=true state='Library Tracker Settings!!show_location'>
 Location: <$reveal state='$:/state/Library Tracker/add location' type=nomatch text='new'>

@@ -1,7 +1,7 @@
 caption: 添加
 created: 20200925105525196
 creator: Ryen Xiang
-modified: 20210615145625628
+modified: 20210616012313727
 modifier: Ryen Xiang
 tags: 
 title: Add Books
@@ -85,30 +85,8 @@ type: text/vnd.tiddlywiki
 </$select>
 \end
 
-Adding Items:
+Adding Books:
 
-<!--Type-->
-Type:
-<$reveal state='$:/state/Library Tracker/add type' type=nomatch text='new'>
-	<$set name=thisTypeSearch value={{$:/state/newbook!!narrow_type_select}}>
-		<<thisTypeSelect>>
-	</$set>
-	<$edit-text tiddler='$:/state/newbook' field='narrow_type_select' placeholder='Narrow Type List'/>
-	(<$button set='$:/state/Library Tracker/add type' setTo='new'>New Item Type</$button>)
-</$reveal>
-<$reveal state='$:/state/Library Tracker/add type' type=match text='new'>
-	<$edit-text tiddler='$:/state/newbook' field='book_type' placeholder='Item Type'/>
-	<$button>
-		Add
-		<$action-setfield $tiddler='$:/data/BookTypes' $index={{$:/state/newbook!!book_type}} $value=1/>
-		<$action-setfield $tiddler='$:/state/newbook' $field='book_author' $value=''/>
-	</$button>
-	<$button set='$:/state/Library Tracker/add type' setTo='notnew'>
-		Done
-	</$button>
-</$reveal>
-<br>
-<!--End Type-->
 <!--Title-->
 Title:
 <$edit-text tiddler='$:/state/newbook' field='book_title' class='tc-edit-texteditor' placeholder='Book Title'/>
@@ -209,30 +187,28 @@ Title:
 	<br>
 </$reveal>
 <!--End Location-->
-<!--Owner-->
-<$reveal type=nomatch text=false state='$:/plugins/inmysocks/LibraryTracker/Library Tracker Settings!!show_owner'>
-	Owner:
-	<$reveal state='$:/state/Library Tracker/add owner' type=nomatch text='new'>
-		<$set name=thisOwnerSearch value={{$:/state/newbook!!narrow_owner_select}}>
-			<<thisOwnerSelect>>
-		</$set>
-		<$edit-text tiddler='$:/state/newbook' field='narrow_owner_select' placeholder='Narrow Owner List'/>
-		(<$button set='$:/state/Library Tracker/add owner' setTo='new'>New  Owner</$button>)
-	</$reveal>
-	<$reveal state='$:/state/Library Tracker/add owner' type=match text='new'>
-		<$edit-text tiddler='$:/state/newbook' field='owner' placeholder='Owner'/>
-		<$button>
-			Add
-			<$action-setfield $tiddler='$:/data/BookOwners' $index={{$:/state/newbook!!owner}} $value=1/>
-			<$action-setfield $tiddler='$:/state/newbook' $field='owner' $value=''/>
-		</$button>
-		<$button set='$:/state/Library Tracker/add owner' setTo='notnew'>
-			Done
-		</$button>
-	</$reveal>
+<!--Type-->
+Type:
+<$reveal state='$:/state/Library Tracker/add type' type=nomatch text='new'>
+	<$set name=thisTypeSearch value={{$:/state/newbook!!narrow_type_select}}>
+		<<thisTypeSelect>>
+	</$set>
+	<$edit-text tiddler='$:/state/newbook' field='narrow_type_select' placeholder='Narrow Type List'/>
+	(<$button set='$:/state/Library Tracker/add type' setTo='new'>New Item Type</$button>)
 </$reveal>
-<!--End Owner-->
-
+<$reveal state='$:/state/Library Tracker/add type' type=match text='new'>
+	<$edit-text tiddler='$:/state/newbook' field='book_type' placeholder='Item Type'/>
+	<$button>
+		Add
+		<$action-setfield $tiddler='$:/data/BookTypes' $index={{$:/state/newbook!!book_type}} $value=1/>
+		<$action-setfield $tiddler='$:/state/newbook' $field='book_author' $value=''/>
+	</$button>
+	<$button set='$:/state/Library Tracker/add type' setTo='notnew'>
+		Done
+	</$button>
+</$reveal>
+<br>
+<!--End Type-->
 
 <!--Tags-->
 <$reveal type=nomatch text=false state='$:/plugins/inmysocks/LibraryTracker/Library Tracker Settings!!show_tags'>
