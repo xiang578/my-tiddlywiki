@@ -170,7 +170,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:List-1749862943</loc>
-		<lastmod>2021-06-16</lastmod>
+		<lastmod>2021-06-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -500,7 +500,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:为什么</loc>
-		<lastmod>2020-10-03</lastmod>
+		<lastmod>2021-06-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -572,7 +572,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:全球猎身</loc>
-		<lastmod>2021-06-16</lastmod>
+		<lastmod>2021-06-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -644,7 +644,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:巨人的工具</loc>
-		<lastmod>2021-06-16</lastmod>
+		<lastmod>2021-06-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -727,6 +727,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:洞见</loc>
+		<lastmod>2021-06-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:深度学习-花书</loc>
 		<lastmod>2021-06-16</lastmod>
 		<changefreq>monthly</changefreq>
@@ -776,7 +782,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:穷查理宝典</loc>
-		<lastmod>2021-06-16</lastmod>
+		<lastmod>2021-06-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -854,7 +860,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:金字塔原理</loc>
-		<lastmod>2021-06-16</lastmod>
+		<lastmod>2021-06-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
