@@ -1,0 +1,11 @@
+created: 20201001083256996
+creator: Ryen Xiang
+modified: 20201001083259130
+modifier: Ryen Xiang
+title: booklogsinfo
+tmap.id: bb951015-67a8-44e5-b9f1-300ecbf77598
+type: text/vnd.tiddlywiki
+
+<div class="tc-subtitle">最後更新於<$view field="modified" format="relativedate"/>
+<<alert dark src:"关键词: {{!!keywords}} | 综述:{{!!caption}} {{!!description}} | 摘要: {{!!summary}}  |  存疑:{{!!doubt}} 
+ | 相关:{{!!relation}} | 备注:{{!!note}}"class:"leftbar border-dark">></div>

@@ -1,0 +1,22 @@
+created: 20200925180015934
+creator: Ryen Xiang
+modified: 20200929144603051
+modifier: Ryen Xiang
+tags: [[TW 运维]]
+title: TW 插件
+tmap.id: 31547ca2-0954-4505-af46-0dee52597d04
+type: text/vnd.tiddlywiki
+
+* [[Shiraz]]：瑞士军刀级别插件，需要使用功能时可以去看 demo <a href="https://kookma.github.io/TW-Shiraz/"> extended markups: styles, macros, images, tables</a>
+* [[Todolist]]: 任务管理插件，可以生成一张清单。看起来还是通过 [[Shiraz]] 的表格比较有趣。
+* [[Highlight.js]]：高亮。[[设置|$:/plugins/tiddlywiki/highlight]]
+* [[TiddlyMap.org |http://tiddlymap.org/]] Wiki-Based Concept-Mapping Software，GitHub 的 ReadMe 文件中指出下载四个依赖项目的文件，然后合并在一起就好。
+* [[TiddlyBlink]]
+
+
+!! 插件安装注意事项：
+
+[[Installing custom plugins on Node.js: TiddlyWiki — a non-linear personal web notebook|https://tiddlywiki.com/static/Installing%2520custom%2520plugins%2520on%2520Node.js.html]]：里面建议 Node.js 版本不要拖拽安装插件，正确的姿势是下载代码然后放在插件对应的目录中。
+
+npm 全局目录 `/usr/local/lib/node_modules/tiddlywiki/plugins`
+

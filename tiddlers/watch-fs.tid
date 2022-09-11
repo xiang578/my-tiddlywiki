@@ -1,0 +1,16 @@
+created: 20200929145710040
+creator: Ryen Xiang
+modified: 20200929145808104
+modifier: Ryen Xiang
+tags: [[TW 插件]]
+title: watch-fs
+tmap.id: 33fdda0f-92ef-448d-99c2-7e2b13230d33
+type: text/vnd.tiddlywiki
+
+$:/plugins/linonetwo/watch-fs
+
+启动脚本加下面代码
+
+```
+tiddlywiki +plugins/tiddlywiki/filesystem +plugins/tiddlywiki/tiddlyweb +plugins/linonetwo/watch-fs <path-to-wiki-folder> --listen
+```

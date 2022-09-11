@@ -1,0 +1,14 @@
+book_title: 把自己作为方法
+created: 20210614104149310
+creator: Ryen Xiang
+modified: 20210614131454460
+modifier: Ryen Xiang
+tags: Journal
+title: 做打火机
+tmap.id: 4911c93d-353a-4ddf-8f8b-d306cf5b4493
+type: text/vnd.tiddlywiki
+
+<$transclude mode="block" tiddler=booklogsinfo/>
+像温州人一样，先把打火机做出来，再去探寻背后的理念。
+<<slider label:"关联和参考" src:"<$transclude tiddler=bookkeywords/>"
+srcClass:"alert alert-secondary">>

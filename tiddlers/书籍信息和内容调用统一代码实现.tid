@@ -1,0 +1,43 @@
+created: 20201001082821344
+creator: Ryen Xiang
+modified: 20201001085901759
+modifier: Ryen Xiang
+tags: TiddlyWiki
+title: 书籍信息和内容调用统一代码实现
+tmap.id: 977ac3a1-7a83-4dab-89d8-ca9fb45f0d6c
+type: text/vnd.tiddlywiki
+
+! 书籍信息和内容调用统一代码实现
+
+参考 <a href="https://rizi.me/#">— Read the Word,Read the World.</a>
+
+通过[[特定 field 字段|field 规范]] 生成 [[bookinfo]]
+
+!! 书籍调用代码
+
+所有书籍页面只用以下代码片段：
+
+```
+<$transclude mode="block" tiddler=bookinfo/>
+```
+
+这里[[bookinfo]]是固定代码统一调用，代码里的变量通过`field`来实现。
+
+`book_tilte` 字段可以聚合相关的笔记。
+
+!! 日志固定代码调用分为两部分：
+
+* 基本信息部分 [[booklogsinfo]]
+
+** 调用使用代码：
+
+```
+<$transclude mode="block" tiddler=booklogsinfo/>
+```
+
+* 内容相关部分 [[bookkeywords]] （利用了field：keywords）
+
+** 调用使用代码：
+```
+<$transclude mode="block" tiddler=bookkeywords/>
+```

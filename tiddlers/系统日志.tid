@@ -1,0 +1,24 @@
+created: 20200924181713497
+creator: Ryen Xiang
+modified: 20200925105656883
+modifier: Ryen Xiang
+tags: [[TW 运维]]
+title: 系统日志
+tmap.id: 59699180-241b-48a5-9ccb-5418e8b48253
+type: text/vnd.tiddlywiki
+
+200925 重新建立站点
+
+<$list filter="[field:topic[系统更新]]+[!sort[created]]">
+
+<$link> <$view tiddler=<<currentTiddler>> field=title/> </$link>  
+@@color:gray;  <$view field="description"/> - //<$view field="created" format="date" template="YYYY年0MM月0DD日DDDPM0hh12:0mm:0ss"/> // @@
+<$list filter="[<currentTiddler>days[-3]]"> @@color:red;^^新^^@@</$list>
+<$list filter="[<currentTiddler>days[-10]!days[-3]]"> @@color:orange;^^最近^^@@</$list>
+<$list filter="[<currentTiddler>days[-30]!days[-10]]"> @@color:gray;^^近期^^@@</$list>
+
+<$details tiddler="DetailsWidget" open="no">
+
+<$transclude/>
+
+</$details>

@@ -1,0 +1,13 @@
+author: 芭芭拉・明托
+created: 20200927020439936
+creator: Ryen Xiang
+item_type: 实体书
+location: 美国
+modified: 20210624145300620
+modifier: Ryen Xiang
+tags: Book
+title: 金字塔原理
+tmap.id: b2a1ca58-ef8f-4c0b-ac2a-b6d996d048e9
+type: text/vnd.tiddlywiki
+
+<$transclude mode="block" tiddler=bookinfo/>

@@ -1,0 +1,18 @@
+created: 20200925105420882
+creator: Ryen Xiang
+modified: 20200925105437000
+modifier: Ryen Xiang
+tags: TiddlyWiki
+title: Tab 用法
+tmap.id: 1f1eb213-c0fc-4310-952f-1daf794bcba1
+type: text/vnd.tiddlywiki
+
+```
+ <<tabs "[[Update Log]] [[TiddlyWiki 实践]]" default:"Update Log" >>
+```
+ <<tabs "[[Update Log]] [[TiddlyWiki 实践]]" default:"Update Log" >>
+
+```
+ <<tabs "[[Update Log]] [[TiddlyWiki 实践]]" default:"Update Log" class:"tc-vertical">>
+```
+ <<tabs "[[Update Log]] [[TiddlyWiki 实践]]" default:"Update Log" class:"tc-vertical">>
