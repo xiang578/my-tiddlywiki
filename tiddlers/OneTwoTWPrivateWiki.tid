@@ -1,0 +1,20 @@
+created: 20220911143029658
+creator: TidGiUser
+modified: 20220911143734805
+modifier: TidGiUser
+tags: [[OneTwo TW]]
+title: OneTwoTWPrivateWiki
+tmap.id: 1d104d26-7727-4a0a-aba8-26b3fac8a222
+type: text/vnd.tiddlywiki
+
+高级搜索 $:/config/FileSystemPaths，修改对应的内容为 
+
+
+```
+[tag[APrivateContent]addprefix[private-MyTiddlyWiki/tiddlers/]] [tag[$:/tags/trashbin]addprefix[private-MyTiddlyWiki/tiddlers/]]
+```
+
+创建对应的私有内容库，然后通过 `npm run install:privateRepo` 创立软链接
+
+参考：https://onetwo.ren/%E7%94%A8tiddlywiki%E6%9B%BF%E4%BB%A3notion%E5%92%8Cevernote%E7%AE%A1%E7%90%86%E7%9F%A5%E8%AF%86/#%E7%A7%81%E6%9C%89%E5%86%85%E5%AE%B9
+
