@@ -1,7 +1,7 @@
 created: 20200924182110594
 creator: Ryen Xiang
-modified: 20210614103414245
-modifier: Ryen Xiang
+modified: 20220915130124752
+modifier: TidGiUser
 tags: 
 title: wiki 名字
 tmap.id: f7598807-a55d-4cbb-b426-26edf3b77757
@@ -14,6 +14,7 @@ wiki 的名字「Xanadu」 取自 [[Ted Nelson]] 的 <a href="https://en.wikiped
 * 仅统计你有权限看到的笔记
 * 遇到新的网站可以用 `<$count filter="[all[tiddlers]!is[system]!is[shadow]]"/>` 看一下笔记数量。
 
+|!2022 年 |<$count filter="[!is[system]!is[image]get[created]compare:integer:gteq[20220000000000000]compare:integer:lt[20230000000000000]]"/> |
 |!2021 年 |<$count filter="[!is[system]!is[image]get[created]compare:integer:gteq[20210000000000000]compare:integer:lt[20220000000000000]]"/> |
 |!2020 年 |<$count filter="[!is[system]!is[image]get[created]compare:integer:gteq[20200000000000000]compare:integer:lt[20210000000000000]]"/> |
 |!2019 年 |<$count filter="[!is[system]!is[image]get[created]compare:integer:gteq[20190000000000000]compare:integer:lt[20200000000000000]]"/> |
