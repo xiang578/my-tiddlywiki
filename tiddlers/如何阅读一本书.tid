@@ -1,0 +1,18 @@
+author: 莫提默·J. 艾德勒
+book_title: 如何阅读一本书
+cover: https://media.xiang578.com/20210616220230.png
+created: 20210616141903998
+creator: Ryen Xiang
+douban: https://book.douban.com/subject/1013208/
+genre: 自我管理
+item_type: 实体书
+location: 美国
+modified: 20210616142213464
+modifier: Ryen Xiang
+series: N/A
+tags: Book
+title: 如何阅读一本书
+tmap.id: f7978e6a-1a57-4179-841e-64c6754115d7
+type: text/vnd.tiddlywiki
+
+<$transclude mode="block" tiddler=bookinfo/>

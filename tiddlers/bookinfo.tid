@@ -1,0 +1,49 @@
+created: 20200926083314260
+creator: Ryen Xiang
+modified: 20220915111911597
+modifier: TidGiUser
+tags: Task
+title: bookinfo
+tmap.id: 35c3ae98-0433-4915-a703-a7d6bbd04f21
+type: text/vnd.tiddlywiki
+
+<a href={{!!douban}} target="_blank"><img style="float: none; margin-left: auto;align:center;display:block; margin-right: auto" src={{!!cover}} width=30%></a>
+
+<div class="tc-subtitle"> 
+
+<<<
+@@color:#808080; 书名:《{{!!title}}》；作者：{{!!author}}；国别：{{!!location}}；分类: {{!!genre}}；系列：{{!!series}}；备注: {{!!note}}@@
+<<<
+
+
+<$list filter="[has:field[book_title] +field:book_title{!!book_title}] -[[Manage Books]] -[is[shadows]] -[is[system]] -[<currentTiddler>] +[!sort[created]limit[10]]">
+
+<$link><$view tiddler=<<currentTiddler>> field=title/> </$link>  
+@@color:gray; <$view field="description"/>  | <$view field="caption"/> |  //<$view field="created" format="date" template="YYYY年0MM月0DD日"/>//@@
+<$list filter="[<currentTiddler>days[-10]]"> @@color:red;^^新^^@@</$list>
+<$list filter="[<currentTiddler>days[-20]!days[-11]]"> @@color:orange;^^最近^^@@</$list>
+<$list filter="[<currentTiddler>days[-30]!days[-21]]"> @@color:gray;^^近期^^@@</$list>
+
+<$details tiddler="DetailsWidget" open="no">
+
+<$transclude/>
+
+</$details>
+
+</$list>
+
+---
+
+''Backlinks: ''
+<$list filter="[all[current]backlinks[]]">
+<li>
+<$link><$view field="title"/></$link> ^^ <$view field="caption"/>^^
+</li>
+</$list>
+''作者其它作品和相似主题：''
+<$list filter="[search:relation,author,book_title,keywords:{!!author}] -[<currentTiddler>] -[[Manage Books]] -[is[shadows]] -[is[system]] +[sort[created]limit[10]] [{!!relation}]">
+<li>
+<$link><$view field="title"/></$link> ^^ <$view field="author"/>^^  <$view field="description"/>  //<$view field="created" format="date" template="YYYY年0MM月0DD日"/>//
+</li>
+</$list>
+

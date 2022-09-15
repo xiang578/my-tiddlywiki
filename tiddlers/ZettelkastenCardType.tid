@@ -1,0 +1,13 @@
+created: 20220915104609186
+creator: TidGiUser
+modified: 20220915104729001
+modifier: TidGiUser
+tags: Meta
+title: ZettelkastenCardType
+type: text/vnd.tiddlywiki
+
+<ul>
+	<$list filter="[color[#ff0000]!has[draft.of]icon[$:/core/images/tag-button]sort[title]]">
+		<li><$link>{{!!title}}</$link> -- {{!!caption}}</li>
+	</$list>
+</ul>

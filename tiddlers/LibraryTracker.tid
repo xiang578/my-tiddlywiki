@@ -1,0 +1,20 @@
+created: 20200926063504407
+creator: Ryen Xiang
+modified: 20210615153422656
+modifier: Ryen Xiang
+tags: [[TW 插件]]
+title: LibraryTracker
+tmap.id: 378e2aef-ba35-4ba7-a32d-66e2c9b45902
+type: text/vnd.tiddlywiki
+
+! LibraryTracker
+
+<a href="https://github.com/OokTech/TW5-LibraryTracker">OokTech/TW5-LibraryTracker: A library tracker plugin for TiddlyWiki5 by OokTech</a>：书籍管理插件，最后一次更新在 18 年。
+
+!! 功能
+* $:/plugins/inmysocks/LibraryTracker
+* [[Add Books]]
+* [[Book List]]
+* [[Library Tracker]]
+* [[Library Tracker Settings]]
+* [[Manage Books]]

@@ -1,0 +1,17 @@
+created: 20200925162021903
+creator: Ryen Xiang
+modified: 20200927022708578
+modifier: Ryen Xiang
+tags: 想法
+title: MVP 版
+tmap.id: 4ef118f2-f865-4b70-9252-4b0d591167fc
+type: text/vnd.tiddlywiki
+
+!! MVP 版本目标： 
+
+* [[201008]] 公开介绍自己的 wiki
+* [[200926]] 在博客主页加上 wiki 链接
+
+!! MVP 版本功能需求
+
+<$macrocall $name=table-dynamic filter="[tag[task]tag[MVP 版]]" fields="tbl-checkbox tbl-expand title description priority status due-date tags" class="w-100" stateTiddler="your-state-tid"/>

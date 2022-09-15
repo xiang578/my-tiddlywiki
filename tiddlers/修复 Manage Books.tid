@@ -1,0 +1,14 @@
+created: 20201001091655265
+creator: Ryen Xiang
+modified: 20220915111911597
+modifier: TidGiUser
+tags: Task [[MVP 版]] done
+title: 修复 Manage Books
+tmap.id: 0886d7c3-9872-4f35-9b9d-ebf50f452974
+type: text/vnd.tiddlywiki
+
+[[Manage Books]] 目前只有 remove book 一项功能，其他功能的代码错在哪里？
+
+拷贝 [[Library Tracker Settings]] 代码后就好了。想不明白。
+
+现在自己的目标是多熟悉这一套流程，然后从豆瓣迁移过来，今年就是两边共用，明年实现完全的迁移。

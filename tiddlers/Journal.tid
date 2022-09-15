@@ -1,0 +1,24 @@
+caption: 最近日志
+created: 20210614104644614
+creator: Ryen Xiang
+modified: 20210614104841398
+modifier: Ryen Xiang
+tags: 
+title: Journal
+tmap.id: 71b47cbc-bd34-407d-b0b8-b8f7911874ab
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[Journal]]+[!sort[created]limit[15]]"> 
+
+
+<$link><$view tiddler=<<currentTiddler>> field=title/> </$link>  
+@@color:gray; <$view field="description"/> -《<$view field="book_title"/>》 //<$view field="created" format="date" template="YYYY年0MM月0DD日"/>//@@
+<$list filter="[<currentTiddler>days[-10]]"> @@color:red;^^新^^@@</$list>
+<$list filter="[<currentTiddler>days[-20]!days[-11]]"> @@color:orange;^^最近^^@@</$list>
+<$list filter="[<currentTiddler>days[-30]!days[-21]]"> @@color:gray;^^近期^^@@</$list>
+
+<$details tiddler="DetailsWidget" open="no">
+
+<$transclude/>
+
+</$details>

@@ -1,0 +1,17 @@
+created: 20200925104254449
+creator: Ryen Xiang
+modified: 20200925104323357
+modifier: Ryen Xiang
+tags: TiddlyWiki
+title: TiddlyWiki 解决方案
+tmap.id: 2857d9aa-d05a-499e-9fa6-b6fe4c35379a
+type: text/vnd.tiddlywiki
+
+评估 [[TiddlyWiki]] 做为个人笔记系统的可能性。
+
+从个人笔记系统的需求出发，横向对比多个软件，选一个能长期坚持的，不要动不动在不同的软件中折腾。
+
+外部修改文件后，需要重新启动服务器才能查看。
+
+>Note that TiddlyWiki on Node.js doesn't currently support directly modifying the tiddler files via the file system while it is running. The server must be restarted in order to for changes to take effect. The recommended way to interact with a running wiki is via the HTTP or JavaScript APIs.
+>[TiddlyWiki on Node.js: TiddlyWiki — a non-linear personal web notebook](https://tiddlywiki.com/static/TiddlyWiki%2520on%2520Node.js.html)
