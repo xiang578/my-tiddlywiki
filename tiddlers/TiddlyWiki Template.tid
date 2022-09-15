@@ -1,0 +1,12 @@
+created: 20220915132359541
+creator: TidGiUser
+modified: 20220915133049873
+modifier: TidGiUser
+tags: 
+title: TiddlyWiki Template
+type: text/vnd.tiddlywiki
+
+
+所有 tiddler 都显示指定模板 `$:/tags/ViewTemplate`
+
+包含指定标签的显示模板 `<$list filter="[all[current]tag[Source]]"></$list>`
