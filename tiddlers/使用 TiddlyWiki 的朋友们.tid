@@ -1,7 +1,7 @@
 created: 20200924162414781
 creator: Ryen Xiang
-modified: 20210614103348514
-modifier: Ryen Xiang
+modified: 20220915142854744
+modifier: TidGiUser
 tags: 
 title: 使用 TiddlyWiki 的朋友们
 tmap.id: e601b779-dabd-4500-bb1d-d49a73d7abbd
@@ -9,6 +9,7 @@ type: text/vnd.tiddlywiki
 
 使用 TiddlyWiki 的朋友们，也是网站~~抄袭~~学习名单
 
+*<a href="https://zettelkasten.sorenbjornstad.com/">Soren Bjornstad</a>'s Zettelkasten site
 * <a href="https://rizi.me/#"> Read the Word,Read the World.</a>：Jerry 的读书笔记网站
 * <a href="https://onetwo.ren/wiki/#:Index">Meme of LinOnetwo</a>：[[林一二]]的模因和想法
 * <a href="https://wiki.hintsnet.com/#about:about">引思网卡片库 — 基于 TiddlyWiki</a>：[[pimgeek]]
