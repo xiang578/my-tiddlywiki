@@ -1,0 +1,10 @@
+{
+    "created": "20210614130640469",
+    "creator": "Ryen Xiang",
+    "text": "<$transclude mode=\"block\" tiddler=booklogsinfo/>\n\n\n<<slider label:\"关联书籍和主题\" src:\"<$transclude tiddler=bookkeywords/>\" srcClass:\"alert alert-secondary\">>",
+    "title": "2021年06月14日周一下午09:06:40",
+    "tags": "Journal",
+    "modified": "20210614130643564",
+    "modifier": "Ryen Xiang",
+    "tmap.id": "a615b3b8-8fe5-4d8c-89a0-a52af1b4e68d"
+}

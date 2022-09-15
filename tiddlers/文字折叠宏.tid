@@ -1,0 +1,75 @@
+created: 20200925104618738
+creator: Ryen Xiang
+modified: 20200925104644950
+modifier: Ryen Xiang
+tags: 
+title: 文字折叠宏
+tmap.id: f9e3885f-4917-44f0-acde-d846e32fcdd2
+type: text/vnd.tiddlywiki
+
+插件 $:/plugins/telmiger/details ，几种效果如下：
+
+```
+<$details>
+
+! This is the revealed content
+And this is some text
+
+</$details>
+```
+<$details>
+
+! This is the revealed content
+And this is some text
+
+</$details>
+
+---
+
+```
+
+<$details summary="Open here!">
+
+!! This is the revealed content
+And this is some text
+
+</$details>
+```
+
+<$details summary="Open here!">
+
+!! This is the revealed content
+And this is some text
+
+</$details>
+
+---
+
+
+```
+<$details summary="This should be open" open="yes">
+
+!!! This is immediately visible
+To have another details section inside a details widget it must be transcluded. Example:
+
+{{!!widget-author}}
+
+</$details>
+
+```
+<$details summary="This should be open" open="yes">
+
+!!! This is immediately visible
+To have another details section inside a details widget it must be transcluded. Example:
+
+{{!!Coze}}
+
+</$details>
+
+[[高级用法|详情展示高级用法]]:
+
+<$details summary="Open here!">
+
+{{详情展示高级用法}}
+
+</$details>

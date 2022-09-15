@@ -1,0 +1,12 @@
+config.neighbourhood_scope: 1
+config.physics_mode: true
+config.raster: 50
+config.refresh-triggers: $:/temp/tmap/currentTiddler
+config.vis: {"physics":{"forceAtlas2Based":{"springConstant":0.09}}}
+created: 20150331114808577
+creator: Ryen Xiang
+isview: true
+modified: 20200928095914899
+modifier: Ryen Xiang
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Live View
+type: text/vnd.tiddlywiki

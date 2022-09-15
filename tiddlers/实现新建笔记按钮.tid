@@ -1,0 +1,24 @@
+created: 20210614130836963
+creator: Ryen Xiang
+modified: 20210614131705102
+modifier: Ryen Xiang
+tags: TiddlyWiki
+title: 实现新建笔记按钮
+tmap.id: a8e5f231-0246-4df5-a5b2-723db8b62040
+type: text/vnd.tiddlywiki
+
+
+```
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY年0MM月0DD日DDDPM0hh12:0mm:0ss">> tags="Journal"  text='<$transclude mode="block" tiddler=booklogsinfo/>
+
+<<slider label:"关联书籍和主题" src:"<$transclude tiddler=bookkeywords/>" srcClass:"alert alert-secondary">>'/>
+	添加读书笔记
+</$button>
+```
+
+tm-new-tiddler 
+
+<a href="https://groups.google.com/g/tiddlywiki/c/AArCI7b2Wws">How can I use the tm-new-tiddler action message to create a new Tiddler with both text and dynamic content?</a>：使用 `'` 或 `"""` 包围 filed 文本
+
+如果需要类似于 `book_title` 字段，可以写成 `<$action-sendmessage  book_title="" />`

@@ -1,0 +1,13 @@
+caption: TW Gist
+created: 20200927145845498
+creator: Ryen Xiang
+modified: 20200927150011709
+modifier: Ryen Xiang
+tags: TiddlyWiki Code
+title: TW Gist
+tmap.id: 5eb45034-95ea-4937-bfb9-3a2ac32e4a88
+type: text/vnd.tiddlywiki
+
+记录一些小功能的代码
+
+* 引用页面，在右侧有一个可跳转按钮 `<<reuse-tiddler "">>`

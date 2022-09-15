@@ -1,0 +1,14 @@
+created: 20200928012820786
+creator: Ryen Xiang
+modified: 20200928150321834
+modifier: Ryen Xiang
+tags: TiddlyWiki [[MVP 版]] task
+title: WikiText
+tmap.id: 68c7e402-a8bd-4875-809c-041e50b6f09f
+type: text/vnd.tiddlywiki
+
+[[TW 官网相关资料|https://tiddlywiki.com/#WikiText]]
+
+~~[[Jeremy Ruston]] 创造 [[TiddlyWiki]] 想到的一点就是「100 年后如果没有 Markdown 解析器，如何查看笔记」？~~对于这一段话理解有些错误，为了在以后能用，所以设计出使用单文件存储笔记的方案，也就有了今天的 TiddlyWiki。
+
+* 链接 `[[name|link]]`，内部链接和外部链接下划线颜色不同。

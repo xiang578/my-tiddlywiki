@@ -1,0 +1,12 @@
+created: 20200925022419127
+creator: Ryen Xiang
+modified: 20200926044335553
+modifier: Ryen Xiang
+tags: [[TW 运维]] task
+title: Wiki 访问加速
+tmap.id: 1f0bbf53-2276-42ae-9bf1-712020da01e5
+type: text/vnd.tiddlywiki
+
+wiki 站点的大小在 6M 左右，存储在 Github 中，国内直接访问需要加载好久。
+
+确认各部分大小？
