@@ -145,12 +145,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;OneTwo%2520TW&apos;%2520by%2520didiglobal</loc>
-		<lastmod>2022-09-16</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://wiki.onetwo.ren/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -314,7 +308,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:OneTwo%2520TW</loc>
-		<lastmod>2021-06-14</lastmod>
+		<lastmod>2022-09-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -385,6 +379,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:Tiddly%2520Gittly</loc>
+		<lastmod>2022-09-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:TiddlyBlink</loc>
 		<lastmod>2020-09-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -429,6 +429,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:TiddlyWiki%2520实践</loc>
 		<lastmod>2020-09-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:TiddlyWiki%2520文件夹转单文件</loc>
+		<lastmod>2022-09-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
