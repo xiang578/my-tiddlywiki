@@ -1,0 +1,13 @@
+created: 20220916104525196
+creator: didiglobal
+modified: 20220916104720669
+modifier: didiglobal
+tags: TiddlyWiki
+title: TiddlyWiki 文件夹转单文件
+type: text/vnd.tiddlywiki
+
+[[How to build a TiddlyWiki5 from individual tiddlers|https://tiddlywiki.com/static/How%2520to%2520build%2520a%2520TiddlyWiki5%2520from%2520individual%2520tiddlers.html]]
+
+nodejs 版本 TiddlyWiki 会根据 `tiddlywiki.info` 转换
+
+`tiddlywiki ~/MyWiki --rendertiddler $:/core/save/all index.html text/plain`
