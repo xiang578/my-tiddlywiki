@@ -1,9 +1,15 @@
 created: 20220915135158872
 creator: TidGiUser
-modified: 20220915135231328
+modified: 20220916024348114
 modifier: TidGiUser
 tags: Meta
 title: ReferenceExplorer
 type: text/vnd.tiddlywiki
 
 [[ZettelkastenCardType]]
+[[LinkGraph]]
+
+格式文件 $:/sib/styles/ReferenceExplorer
+
+table.ideas-table 
+background color
