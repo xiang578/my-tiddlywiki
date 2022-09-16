@@ -1,8 +1,8 @@
 .DS_Store
 node_modules
 /public
-PublicWiki/output
-PublicWiki/tiddlers/private-MyTiddlyWiki
+/public-dist
+tiddlers/private-MyTiddlyWiki
 /scripts/daemon
 $__StoryList.tid
 wk.log

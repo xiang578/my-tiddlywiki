@@ -22,9 +22,7 @@
     "tiddlywiki/katex",
     "tiddlywiki/markdown",
     "tiddlywiki/sax",
-    "tiddlywiki/text-slicer",
-    "sitemap",
-    "prevent-edit"
+    "tiddlywiki/text-slicer"
   ],
   "themes": ["tiddlywiki/vanilla"],
   "languages": ["zh-Hans"],
