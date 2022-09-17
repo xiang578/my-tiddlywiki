@@ -92,7 +92,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:bookinfo</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -361,6 +361,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:sort</loc>
+		<lastmod>2022-09-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:Tab%2520用法</loc>
 		<lastmod>2020-09-25</lastmod>
 		<changefreq>monthly</changefreq>
@@ -542,25 +548,25 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:wiki%2520架构</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Wiki%2520访问加速</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:wiki%2520访问量统计</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:WikiText</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -638,7 +644,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:使用%2520Github%2520同步%2520TW</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -650,13 +656,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:使用%2520TiddlyWiki%2520管理阅读</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:修复%2520Manage%2520Books</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -704,19 +710,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:如何开启%2520OneTwo%2520TW%2520中的文件目录</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:如何更好组织%2520TW%2520中的笔记</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:如何让其他人在%2520wiki%2520中找到自己喜欢的内容</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -902,7 +908,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:笔记自动打上创建时间标签</loc>
-		<lastmod>2022-09-15</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
