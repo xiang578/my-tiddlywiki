@@ -1,6 +1,6 @@
 created: 20220917164923537
 creator: Ryen@didiglobal
-modified: 20220917173004873
+modified: 20220917175517530
 modifier: Ryen@didiglobal
 tags: 
 title: 任务管理
@@ -18,7 +18,7 @@ type: text/vnd.tiddlywiki
 	</tr>
 	</thead>
 	<tbody>
-		<$list filter=[tag[Task]]>
+		<$list filter="[tag[Task]!nsort[score]]">
 		<tr>
             <td><$link to={{!!title}} tooltip=<<thisTooltip>> style="color: white;"/></td>
             <td><$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0ss"/></td>
@@ -26,8 +26,12 @@ type: text/vnd.tiddlywiki
              <td>{{!!score}}</td>
              <td>
                <$button class="tc-tiddlylink tc-btn-invisible">
-               <$macrocall $name=inbox-postpone scoreExpr={{{ [all[current]get[score]else[10]multiply[2]] }}}/>
+                <$action-setfield score={{{ [all[current]get[score]else[10]add[1]] }}} />
                +1
+               </$button>&nbsp;|
+               <$button class="tc-tiddlylink tc-btn-invisible">
+                <$action-setfield score={{{ [all[current]get[score]else[10]subtract[1]] }}} />
+               -1
                </$button>&nbsp;|
              </td>
 		</tr>
