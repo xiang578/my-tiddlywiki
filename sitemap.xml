@@ -145,6 +145,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:Experience%2520TiddlyWiki%2520Fluency:%2520Creating%2520a%2520Reading%2520List</loc>
+		<lastmod>2022-09-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -722,7 +728,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:实现%2520ReferenceExplorer</loc>
-		<lastmod>2022-09-16</lastmod>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
