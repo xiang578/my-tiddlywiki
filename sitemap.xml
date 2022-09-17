@@ -607,6 +607,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:任务管理</loc>
+		<lastmod>2022-09-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:休息一下</loc>
 		<lastmod>2020-09-30</lastmod>
 		<changefreq>monthly</changefreq>
@@ -801,6 +807,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:日期%2520DateFormat</loc>
 		<lastmod>2020-09-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:时间序列预测2022年9月主题学习</loc>
+		<lastmod>2022-09-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
