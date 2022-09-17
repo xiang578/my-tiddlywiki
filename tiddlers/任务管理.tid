@@ -1,0 +1,36 @@
+created: 20220917164923537
+creator: Ryen@didiglobal
+modified: 20220917173004873
+modifier: Ryen@didiglobal
+tags: 
+title: 任务管理
+type: text/vnd.tiddlywiki
+
+<table class="ideas-table">
+	<caption class="ideas-table-caption">Task List</caption>
+	<thead>
+	<tr>
+		<th>Title</th>
+        <th>Modified</th>
+		<th>Tags</th>
+        <th>Score</th>
+         <th>Change</th>
+	</tr>
+	</thead>
+	<tbody>
+		<$list filter=[tag[Task]]>
+		<tr>
+            <td><$link to={{!!title}} tooltip=<<thisTooltip>> style="color: white;"/></td>
+            <td><$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0ss"/></td>
+			<td><$list filter="[all[current]tags[]sort[]]"><$macrocall $name="tag-pill" tag=<<currentTiddler>>/></$list></td>
+             <td>{{!!score}}</td>
+             <td>
+               <$button class="tc-tiddlylink tc-btn-invisible">
+               <$macrocall $name=inbox-postpone scoreExpr={{{ [all[current]get[score]else[10]multiply[2]] }}}/>
+               +1
+               </$button>&nbsp;|
+             </td>
+		</tr>
+		</$list>
+	</tbody>
+</table>

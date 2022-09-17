@@ -2,8 +2,8 @@ caption: All
 condition: [<storyTiddler>backlinks[]] [<storyTiddler>links[]] [<storyTiddler>tagging[]] +[!title<storyTiddler>sort[]]
 created: 20220915133626254
 creator: xiangrunye
-modified: 20220916024512922
-modifier: TidGiUser
+modified: 20220917170327511
+modifier: Ryen@didiglobal
 tags: $:/tags/ReferenceExplorerTab
 title: $:/sib/refexplorer/All
 type: text/vnd.tiddlywiki
@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
 		<th>Title</th>
 		<th>Type</th>
 		<th>Tags</th>
-		<th style="width: 8rem;">Modified</th>
+		<th style="width: 10rem;">Modified</th>
 	</tr>
 	</thead>
 	<tbody>
