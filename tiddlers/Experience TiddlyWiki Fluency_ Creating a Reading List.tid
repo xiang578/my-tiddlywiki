@@ -1,0 +1,12 @@
+created: 20220917144117383
+creator: Ryen@didiglobal
+modified: 20220917144430620
+modifier: Ryen@didiglobal
+title: Experience TiddlyWiki Fluency: Creating a Reading List
+type: text/vnd.tiddlywiki
+url: https://www.youtube.com/watch?v=vsdDs7oOLlg
+
+
+如果有一个 tiddler 的标题是 `xxxx/review`，可以通过 `removesuffix[/review]` 获取前面的名字。
+
+`all[current]suffix[/review]` 给当前笔记增加后缀。
