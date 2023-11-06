@@ -1,0 +1,24 @@
+created: 20231105153052008
+modified: 20231105153345595
+tags: 
+title: tiddlywiki 网页上修改无法自动保存
+type: text/vnd.tiddlywiki
+
+启动服务报错，而且网页上的修改无法自动保存。
+
+```
+Warning: Plugin(s) required for client-server operation are missing.
+"$:/plugins/tiddlywiki/filesystem", "$:/plugins/tiddlywiki/tiddlyweb"
+Serving on http://127.0.0.1:8080
+```
+
+参考 https://stackoverflow.com/questions/68326196/convert-a-single-file-tiddlywiki-to-a-folder-for-use-with-nodejs-locally 以及 
+
+编辑 `tiddlywiki.info` 文件增加下面两个插件：
+
+```
+"plugins": [
+  "tiddlywiki/filesystem",
+  "tiddlywiki/tiddlyweb"
+],
+```
